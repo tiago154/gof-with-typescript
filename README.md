@@ -18,8 +18,8 @@ This repository goals to be a study material and exemplify the GOF design patter
 ## 📝 Content
 
 - [Behavioral Patterns](https://github.com/tiago154/gof-with-typescript/blob/master/src/behavioral-patterns/README.md)
-- [Creational Patterns](https://github.com/tiago154/gof-with-typescript/blob/master/src/behavioral-patterns/README.md)
-- [Structural Patterns](https://github.com/tiago154/gof-with-typescript/blob/master/src/behavioral-patterns/README.md)
+- [Creational Patterns](https://github.com/tiago154/gof-with-typescript/blob/master/src/creational-patterns/README.md)
+- [Structural Patterns](https://github.com/tiago154/gof-with-typescript/blob/master/src/structural-patterns/README.md)
 
 
 
