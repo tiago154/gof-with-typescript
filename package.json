@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "singleton": "ts-node-dev src/creational-patterns/singleton/index.ts"
+    "singleton": "ts-node-dev src/creational-patterns/singleton/index.ts",
+    "factory-method": "ts-node-dev src/creational-patterns/factory-method/index.ts"
   },
   "keywords": [],
   "author": "",

@@ -9,3 +9,5 @@ Eles disponibilizam uma maneira para criar objetos ocultando os detalhes da sua 
 They provide a way to create objects by hiding the details of their creation, instead of using the `new` operator directly. This gives more flexibility when deciding which objects need to be created for a given case.
 
 - [Singleton](https://github.com/tiago154/gof-with-typescript/blob/main/src/creational-patterns/singleton/README.md)
+
+- [Factory Method](https://github.com/tiago154/gof-with-typescript/blob/main/src/creational-patterns/factory-method/README.md)

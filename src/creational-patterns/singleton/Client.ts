@@ -1,5 +1,4 @@
 export class Client {
-  // eslint-disable-next-line no-useless-constructor
   private constructor () { }
 
   private static instance: Client
